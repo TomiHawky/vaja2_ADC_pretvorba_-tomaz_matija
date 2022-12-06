@@ -7,5 +7,17 @@ h) Clock Prescaler nastavimo z deliteljem 4. Kolikšna je sedaj preskalirana fre
 j) Sampling time (čas vzorčenja tvz_ciklih) spremenite na 239.5 cikov. Pravi čas vzorčenja se nato poveča še za 12 ciklov. Koliko znaša pravi čas vzorčenja tvz v mikro sekundah?
 
 (enačba: tvz=tvz_ciklih/fpreskalriana)? _________61.875_______.
+##Pinout
+![pinout](https://github.com/TomiHawky/vaja2_ADC_pretvorba_-tomaz_matija/blob/main/pinout.png)
+
+##Configuracija
+
+![pinout](https://github.com/TomiHawky/vaja2_ADC_pretvorba_-tomaz_matija/blob/main/config1.png)
+![pinout](https://github.com/TomiHawky/vaja2_ADC_pretvorba_-tomaz_matija/blob/main/config2.png)
+
+
+##vezava
+
+![pinout](https://github.com/TomiHawky/vaja2_ADC_pretvorba_-tomaz_matija/blob/main/IMG_20221206_085404.jpg)
 
 Deluje brez kakršnekoli napake.
